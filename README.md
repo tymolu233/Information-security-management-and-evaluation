@@ -1,17 +1,23 @@
 # Information-security_management-and-evaluation
 ---
 > author：leadlife
+
 > time：2022/12/03
+
 > Wchat：Tripse
+
 > 知识星球：LeadlifeSec
+
 > 业务 QQ：482949203
+
 > LeadlifeSec 技术交流群：775454947
+
 > description:全国职业院校技能大赛-信息安全管理与评估赛项指南
 
 ## LeadlifeSec 知识星球
 
 ### 海报
-![LEADLIFESEC](https://security-note.oss-cn-hangzhou.aliyuncs.com/LEADLIFESEC.gif)
+![LEADLIFESEC](https://security-note.oss-cn-hangzhou.aliyuncs.com/LEADLIFESEC.jpg)
 
 ### 简介
 LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集，并且知识体系中涉及 2 个网络安全赛项：信息安全与评估，网络搭建与应用。我将从赛事带领大家进入网络空间安全领域，其中干活满满，不仅可以在比赛中获得好名次，还能进而学习网络安全技能，详情如下:
@@ -27,7 +33,7 @@ LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集�
 #### 信息安全管理与评估资源一览
 
 > 并非全部
-![image-20221127221203070](C:\Users\Tripse\AppData\Roaming\Typora\typora-user-images\image-20221127221203070.png)
+![image-20221127221203070](https://security-note.oss-cn-hangzhou.aliyuncs.com/image-20221127221203070.png)
 
 ### 安全技能
 * Web 安全
