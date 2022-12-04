@@ -28,7 +28,8 @@ LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集�
 #### 信息安全管理与评估资源一览
 
 > 并非全部
-![image-20221127221203070](https://security-note.oss-cn-hangzhou.aliyuncs.com/image-20221127221203070.png)
+![image-20221127221203070](https://user-images.githubusercontent.com/110890002/205478743-bc2110c3-b888-4957-ac2a-26faa14b6fea.png)
+
 
 ### 安全技能
 * Web 安全
@@ -63,8 +64,8 @@ LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集�
 ## 概览
 
 > 仅部分截图，请以直接搜索查看为准
+![image-20221128214812827](https://user-images.githubusercontent.com/110890002/205478751-7884f24e-e899-4b7a-88d1-163637597d4a.png)
 
-![image-20221127221203070](https://user-images.githubusercontent.com/110890002/205478690-d1aa4db9-8f56-42d2-ada4-4312600adcf4.png)
 
 
 
