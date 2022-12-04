@@ -1,18 +1,12 @@
 # Information-security_management-and-evaluation
 ---
 > author：leadlife
-
 > time：2022/12/03
-
 > Wchat：Tripse
-
 > 知识星球：LeadlifeSec
-
 > 业务 QQ：482949203
-
 > LeadlifeSec 技术交流群：775454947
-
-> description:全国职业院校技能大赛-信息安全管理与评估赛项指南
+> description：全国职业院校技能大赛-信息安全管理与评估赛项指南
 
 ## LeadlifeSec 知识星球
 
@@ -69,7 +63,7 @@ LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集�
 
 > 仅部分截图，请以直接搜索查看为准
 
-![image-20221128214812827](https://security-note.oss-cn-hangzhou.aliyuncs.com/image-20221128214812827.png)
+![image-20221127221203070](https://user-images.githubusercontent.com/110890002/205478690-d1aa4db9-8f56-42d2-ada4-4312600adcf4.png)
 
 
 
