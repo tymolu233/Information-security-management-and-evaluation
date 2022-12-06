@@ -73,5 +73,5 @@ LeadlifeSec 知识星球着重为安全人员提供网络安全精华知识集�
 
 知识星球二维码
 
-![知识星球二维码](https://security-note.oss-cn-hangzhou.aliyuncs.com/知识星球二维码.jpg)
+![zhishi](https://security-note.oss-cn-hangzhou.aliyuncs.com/zhishi.jpg)
 
